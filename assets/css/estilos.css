@@ -1,0 +1,21 @@
+/*PreSentacionntacion*/
+#container{
+    background-color: #000;   
+}
+
+#Presentacion{
+    color: #ffff;
+}
+#Presentacion hr{
+    background-color: teal;
+    height: 1px;   
+}
+.barra{
+    background: teal;
+    height: 30px;
+    width: 320px;
+}
+.fas{
+    font-size: 25px;
+    padding-top: 2px;
+}
