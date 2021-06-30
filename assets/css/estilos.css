@@ -19,3 +19,19 @@
     font-size: 25px;
     padding-top: 2px;
 }
+/*Destacados*/
+#Destacados{
+    background-color: #000;
+}
+#Destacados div h4{
+    color: white;
+}
+#Destacados div hr{
+    background-color: teal;
+    height: 1px;
+}
+#Destacados .card{
+    background-color: teal;
+    color: white;
+    border-radius: 4;
+}
