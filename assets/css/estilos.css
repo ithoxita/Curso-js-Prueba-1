@@ -8,10 +8,14 @@
         height: 280;
     }
 }
+body{
+    background-color: black;
+}
 
 /*PreSentacionntacion*/
-#container{
-    background-color: #000;   
+#Presentacion{
+    background:#000 ;   
+    background: cover;
 }
 #Presentacion h4{
     font-family: 'Raleway', sans-serif;
@@ -21,7 +25,7 @@
     font-family: 'Raleway', sans-serif; 
     font-weight: 400; 
     font-size: 12px;
-    line-height : 25px;
+    line-height: 2;
 }
 #Presentacion{
     color: #ffff;
@@ -40,9 +44,7 @@
     padding-top: 2px;
 }
 /*Destacados*/
-#Destacados{
-    background-color: #000;
-}
+
 #Destacados div h4{
     color: white;
     font-family: 'Raleway', sans-serif; 
